@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Kevil | Gray Hat
+# 👋 Hi, I'm Kevil | Black Hat
 
 🛡️ **Cybersecurity Researcher | Pentester | Bug Bounty Hunter**  
 🔍 Focus: Web app security, OSINT, red teaming  
