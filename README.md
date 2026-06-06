@@ -1,4 +1,4 @@
-<img src="https://kommodo.ai/i/hH5MOphMl6LKIlWGpkuj" width="100%">
+<img src="https://kommodo.ai/i/hH5MOphMl6LKIlWGpkuj" width="50%">
 
 # 👋 Hi, I'm Kevil | Gray Hat
 
